@@ -7,21 +7,21 @@ const Projects: React.FC = () => {
       title: "LUMIÈRE & STONE Cafe",
       description: "A full-scale online store with Stripe integration and real-time inventory management.",
       tags: ["React", "Node.js", "PostgreSQL", "Tailwind"],
-      image: "cafe.png",
+      image: "/cafe.png",
       url: "https://restaurrendbymd.netlify.app/"
     },
     {
       title: "Saraswati Vidya Mandir",
       description: "Complex analytics dashboard featuring d3.js visualizations and multi-tenant auth.",
       tags: ["React", "Node.js", "PostgreSQL", "Tailwind"],
-      image: "school.png",
+      image: "/school.png",
      url: "https://schoolwebbymd.netlify.app"
     },
     {
       title: "GymHero",
       description: "Real-time cryptocurrency monitoring tool with WebSocket price alerts.",
       tags: ["React", "Node.js", "PostgreSQL", "Tailwind"],
-      image: "Gym.png",
+      image: "/Gym.png",
       url: "https://gymherobynafis.netlify.app"
     }
   ];

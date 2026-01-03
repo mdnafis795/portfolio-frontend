@@ -7,7 +7,7 @@ const About: React.FC = () => {
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center  ">
         <div >
           <img
-            src="Nafis.png"
+            src="/Nafis.png"
             alt="Profile"
             // className="rounded-2xl shadow-2xl border-8 border-white dark:border-slate-800"
             className="rounded-2xl shadow-2xl border-8 border-white dark:border-slate-800 "
